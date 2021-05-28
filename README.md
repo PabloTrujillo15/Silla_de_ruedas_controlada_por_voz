@@ -1,4 +1,4 @@
-# Dispositivo de movilidad controlado por la voz 
+# Silla de ruedas controlado por la voz 
 
 Este dispositivo es controlado por medio de la voz con cinco comandos básicos los cuales son: adelantes, reversa, derecha, izquierda y detente. Además se evalúa el desempeño del algoritmo previamente propuesto presentando la menor cantidad de errores posibles al momento de hacer la validación. Este algoritmo fue programado en lenguaje Python en el notebook de Jupyter, se seleccionó el clasificador **_BernoulliNB_**.
 
