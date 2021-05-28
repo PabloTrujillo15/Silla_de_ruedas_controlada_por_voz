@@ -5,7 +5,7 @@ Este dispositivo es controlado por medio de la voz con cinco comandos básicos l
 Este repositorio contiene:
 -   Algoritmo fuente
 -   Datos :
-    -  Scripts de desarrollo (Python y Arduino)
+    -  Scripts de desarrollo (Python3 y Arduino)
       -   Base de datos
 # Requisitos de hardware
   -  Computador
